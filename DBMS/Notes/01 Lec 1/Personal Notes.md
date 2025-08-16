@@ -6,7 +6,7 @@ whether it's text, number, image or anything for that matter
 Data itself has no meaning as such / unprocessed data has no meaning 
  
 ### Information
-when we process the row data and derive some meaning out of it then it gets converted to __information__
+when we process the raw data into structured format and derive some meaning out of it then it gets converted to __information__
 OR
 Processed data is known as information -> it is derived from data by applying some conditions and algorithms
 
